@@ -1,0 +1,7 @@
+project_id = "0ec90b57d6e95fcbda19832f"
+
+[functions.run-discovery]
+verify_jwt = true
+
+[functions.rescore-leads]
+verify_jwt = true
